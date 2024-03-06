@@ -9,7 +9,7 @@ const Projects = () => {
     {
       id: 1,
       src: portfolio,
-      link: "https://www.linkedin.com/in/dhananjay-gupta-661078239/"
+      link: "https://github.com/dhananjay-gupta3/DhananjayPortfolio"
     },
     {
       id: 2,
