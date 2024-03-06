@@ -13,24 +13,22 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-xl mt-6">
+
+          I'm a FullStack Web Developer building the Front-end of Websites and Web
+          Applications that leads to the success of the overall product. Check out some
+          of my work in the Projects section.I also like sharing content related to the
+          stuff that I have learned over the years in Web Development so it can help
+          other people of the Dev Community. Feel free to Connect or Follow me on
+          Linkedin.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I'm open to Job opportunities where I can contribute,
+          learn and grow. If you have a good opportunity that matches
+          my skills and experience then don't hesitate to contact me.
         </p>
       </div>
     </div>
