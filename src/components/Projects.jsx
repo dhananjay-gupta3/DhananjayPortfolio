@@ -14,7 +14,7 @@ const Projects = () => {
     {
       id: 2,
       src: movie,
-      link: "https://github.com/dhananjay-gupta3"
+      link: "https://github.com/dhananjay-gupta3/MovieHubs"
     },
     {
       id: 3,
